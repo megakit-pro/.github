@@ -1,2 +1,2 @@
-# .github
-Megakit public information
+# Megakit
+This project sets the default policies for all repositories
