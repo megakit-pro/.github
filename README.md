@@ -1,0 +1,2 @@
+# .github
+Megakit public information
